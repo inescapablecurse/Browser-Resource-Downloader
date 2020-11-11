@@ -1,0 +1,9 @@
+Rough idea
+Its a web extension that allows user to auto download all resources from a specified url prefix to their downloads folder
+
+- Allow user to specify url prefix from which all resources would be auto downloaded
+- Download location default to that of browser
+
+Start developing for chrome
+
+May port to support firefox later.
